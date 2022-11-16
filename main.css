@@ -1,0 +1,14 @@
+div {
+  padding: 30px;
+  font-size: 50px;
+}
+
+button {
+  width: 100px;
+  padding: 10px;
+}
+
+.class :hover {
+    opacity: .8;
+}
+
